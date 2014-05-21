@@ -169,8 +169,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int row_icon=0x7f040008;
         public static final int row_title=0x7f04000b;
         public static final int selected_view=0x7f040005;
-        public static final int slidingconversationlistlayout=0x7f04000f;
-        public static final int slidingmenumain=0x7f040010;
+        public static final int slidingmenumain=0x7f04000f;
     }
     public static final class integer {
         public static final int num_cols=0x7f080000;
@@ -182,8 +181,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int row_contact=0x7f030003;
         public static final int row_conversation=0x7f030004;
         public static final int row_conversation_frame=0x7f030005;
-        public static final int row_slide=0x7f030006;
-        public static final int slidingmenumain=0x7f030007;
+        public static final int slidingmenumain=0x7f030006;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
