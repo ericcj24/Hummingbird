@@ -1191,6 +1191,11 @@ containing a value of this type.
         public static final int conversations_fragment=0x7f09000e;
     }
     public static final class style {
+        /** 
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    
+         */
         public static final int ExampleTheme=0x7f0a0059;
         public static final int Sherlock___TextAppearance_Small=0x7f0a0046;
         public static final int Sherlock___Theme=0x7f0a0051;
