@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/row_conversation_frame"
     android:gravity="right"
     android:layout_width="match_parent"
@@ -22,4 +22,4 @@
         android:text="Medium Text"
         android:textAppearance="@android:style/TextAppearance.Medium" />
 
-</RelativeLayout>
+</LinearLayout>
